@@ -7066,5 +7066,24 @@
 		"_publish_hash": "sha256:1b6b24e2ff7d7b5698bb8cf74b79d25fff566c99381e1b495327e0a6722300b2",
 		"_publish_commit": "main:838af3b999897b3c746afdb702db8b8200905795",
 		"_npm_package_name": "joplin-plugin-wordcount-by-developerzohaib786"
+	},
+	"com.chordpro.ChordproRender": {
+		"manifest_version": 1,
+		"id": "com.chordpro.ChordproRender",
+		"app_min_version": "3.5",
+		"version": "1.0.2",
+		"name": "Chordpro",
+		"description": "Renders chordpro in preview, and provides syntax highlighting for chordpro files in the Joplin markdown editor.",
+		"author": "Max Keeble",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"promo_tile": {},
+		"_publish_hash": "sha256:5dfb5684a487de5718f2fc03468e6014d9302ae853994e82856226805442e27d",
+		"_publish_commit": "main:7384e584c5c42e7c857dbdb9ec84f0c1dea11697",
+		"_npm_package_name": "joplin-plugin-chordpro"
 	}
 }

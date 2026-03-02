@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.chordpro.ChordproRender",
+	"app_min_version": "3.5",
+	"version": "1.0.2",
+	"name": "Chordpro",
+	"description": "Renders chordpro in preview, and provides syntax highlighting for chordpro files in the Joplin markdown editor.",
+	"author": "Max Keeble",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:5dfb5684a487de5718f2fc03468e6014d9302ae853994e82856226805442e27d",
+	"_publish_commit": "main:7384e584c5c42e7c857dbdb9ec84f0c1dea11697",
+	"_npm_package_name": "joplin-plugin-chordpro"
+}
