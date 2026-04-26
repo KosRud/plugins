@@ -1,0 +1,19 @@
+{
+	"manifest_version": 1,
+	"id": "com.github.eugenelesnov.DearDiary",
+	"app_min_version": "3.5",
+	"version": "1.0.0",
+	"name": "Calendar Notes",
+	"description": "Create notes for any day in the calendar.",
+	"author": "Eugene Lesnov",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {},
+	"_publish_hash": "sha256:99a7382df4b553ae00e82400b7d6e969ac3f70c6d85eb15b062493cb70a9cec0",
+	"_publish_commit": "main:e9366d9f388875e8f392dac132577a288c59271d",
+	"_npm_package_name": "joplin-plugin-calendar-notes"
+}
