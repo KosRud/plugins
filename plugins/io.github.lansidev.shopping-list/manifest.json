@@ -6,7 +6,7 @@
 		"desktop",
 		"mobile"
 	],
-	"version": "1.0.2",
+	"version": "1.0.5",
 	"name": "Shopping List",
 	"description": "Turn a Markdown note into an interactive, store-grouped shopping list. Items auto-sort into stores by configurable regex patterns (walking-path order); tick them off or push them to the next matching store.",
 	"author": "lansidev",
@@ -24,7 +24,7 @@
 	"screenshots": [],
 	"icons": {},
 	"promo_tile": {},
-	"_publish_hash": "sha256:04cd4e7868419fbca25503907a4369dfcb7fd55dec2d358ba003f4311b286d84",
-	"_publish_commit": "main:02ddc8e9b9dd8009f846a0c5fdb113ca3300676c",
+	"_publish_hash": "sha256:a3f96cdd9dc9f319d18741bed8c049b86c6628e9d18199eefc29080556e8a15c",
+	"_publish_commit": "main:66f4b188b0001f3b0c162df62e74db9acecbbb4c",
 	"_npm_package_name": "joplin-plugin-shopping-list"
 }
