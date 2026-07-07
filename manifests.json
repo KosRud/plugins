@@ -8466,5 +8466,33 @@
 			"viewer"
 		],
 		"_npm_package_name": "joplin-plugin-minimap"
+	},
+	"com.github.full-notebook-view": {
+		"manifest_version": 1,
+		"id": "com.github.full-notebook-view",
+		"app_min_version": "3.5",
+		"version": "1.0.0",
+		"name": "Full Notebook View",
+		"description": "A Windows File Explorer-style tree view panel showing notebooks and notes with expand/collapse, search, sort, and new note creation.",
+		"author": "",
+		"homepage_url": "",
+		"repository_url": "",
+		"keywords": [
+			"notebooks",
+			"tree-view",
+			"file-explorer",
+			"navigation"
+		],
+		"categories": [
+			"productivity",
+			"appearance"
+		],
+		"screenshots": [],
+		"icons": {
+			"256": "icon.png"
+		},
+		"_publish_hash": "sha256:600878368aacb83b97028a58c69da4c13fde2464f4e9aea1097140092c5612fd",
+		"_publish_commit": "main:a34d4b4aa7871ba66f5c8559af3c5b2050d5db49",
+		"_npm_package_name": "joplin-plugin-full-notebook-view"
 	}
 }
