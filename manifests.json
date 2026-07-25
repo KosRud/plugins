@@ -8407,7 +8407,7 @@
 		"manifest_version": 1,
 		"id": "com.bwat47.joplin-markdown-formatter",
 		"app_min_version": "3.5",
-		"version": "1.6.0",
+		"version": "1.6.1",
 		"platforms": [
 			"desktop",
 			"mobile"
@@ -8434,8 +8434,8 @@
 			"src": "images/markdown-formatter-promo.png",
 			"label": "Markdown Formatter Promo Tile"
 		},
-		"_publish_hash": "sha256:5f15f9d6d2c7afb45d6f260cf354132ef8b5bd5f3b32efa8a8c2bde4dbc1f066",
-		"_publish_commit": "main:55bbe132e52dde3ff8998478fee731ab4e29d05e",
+		"_publish_hash": "sha256:af48a2f095efeb1173c40bedb8c49a969bb073e445bf6773e3e37c611e44cc8c",
+		"_publish_commit": "main:1fbf8dc9044e828d5c83bc467a85f106842f98b9",
 		"_npm_package_name": "joplin-plugin-markdown-formatter"
 	},
 	"io.github.pulsarlens.daily-growth-tracker": {
