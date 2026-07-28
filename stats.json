@@ -8827,6 +8827,10 @@
 		"1.6.0": {
 			"downloadCount": 54,
 			"createdAt": "2026-07-23T10:17:10Z"
+		},
+		"1.6.4": {
+			"downloadCount": 0,
+			"createdAt": "2026-07-28T11:45:07Z"
 		}
 	},
 	"com.joekaufeld.joplinHugoValidator": {
@@ -9313,6 +9317,10 @@
 		"0.7.0": {
 			"downloadCount": 30,
 			"createdAt": "2026-07-18T21:31:31Z"
+		},
+		"0.8.0": {
+			"downloadCount": 0,
+			"createdAt": "2026-07-28T14:14:28Z"
 		}
 	},
 	"com.bwat47.joplin-backlinks-navigator": {
