@@ -8887,7 +8887,7 @@
 		"manifest_version": 1,
 		"id": "com.github.xfuture603.journal-timeline",
 		"app_min_version": "3.2",
-		"version": "1.1.0",
+		"version": "1.2.0",
 		"name": "Journal Timeline",
 		"description": "Reads your dated journal notes as a continuous timeline, and opens or creates today's entry in one click.",
 		"author": "xFuture",
@@ -8909,8 +8909,8 @@
 		"screenshots": [],
 		"icons": {},
 		"promo_tile": {},
-		"_publish_hash": "sha256:b5381b4e843c6171164696f1548355be4f8752eda889252d7a3ac4790407047c",
-		"_publish_commit": "main:10a3bf1f2218f485e0c100a3b3e6118d3b9d633c",
+		"_publish_hash": "sha256:87028fe58092ef1068b13c09734709167160eca846e1e15928a7ebc0ae4de688",
+		"_publish_commit": "main:3760344804e4ce14ab3ed857aedfee05c1c5f9c3",
 		"_npm_package_name": "joplin-plugin-journal-timeline"
 	},
 	"io.github.pb-strawberries.habit-tracker-plus": {
